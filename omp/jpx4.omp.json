@@ -1,5 +1,5 @@
 {
-  "$schema": "https://jpx4.github.io/oh-my-posh-config/oh-my-posh/schema",
+  "$schema": "https://ftp.jpx4.ml/omp/schema",
   "blocks": [
     {
       "alignment": "left",
